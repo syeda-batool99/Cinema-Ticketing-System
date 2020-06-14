@@ -5,6 +5,7 @@ This is an online cinema ticketing system web application. I made it for my Data
 Our project basically manages the ticket booking process of cinema, providing an interface to the user to book movie tickets in an easier way. At the front end we have used HTML and CSS and at the back end My SQL server and the laravel’s framework for PHP. The project proceeds through a sequence of well-designed forms provided with validations to ensure consistency, reliability and most importantly correctness of information fed into the database.
 
 ## ERD Diagram
+**Note: There is a separate table for admin and user because the instructions for the project were to implement a separate user and admin portal by the instructor. Hence, there is no user role based login implemented.**
 
 ![ERD](https://user-images.githubusercontent.com/60713786/84601827-6de3d380-ae9c-11ea-9054-816ac16e5d33.png)
 

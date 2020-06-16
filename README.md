@@ -1,4 +1,4 @@
-# -Database-Project---mySQL
+# Cinema Ticketing System
 This is a cinema ticketing system web application. I made it for my Database course's final project. It was built using HTML5, CSS3, Bootstrap, PHP and mySQL.
 
 ### Project Description

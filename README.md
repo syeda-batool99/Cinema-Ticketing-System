@@ -1,8 +1,8 @@
 # -Database-Project---mySQL
-This is an online cinema ticketing system web application. I made it for my Database course as my final project. It was built using mySQL and PHP.
+This is a cinema ticketing system web application. I made it for my Database course's final project. It was built using HTML5, CSS3, Bootstrap, PHP and mySQL.
 
 ### Project Description
-Our project basically manages the ticket booking process of cinema, providing an interface to the user to book movie tickets in an easier way. At the front end we have used HTML and CSS and at the back end My SQL server and the laravel’s framework for PHP. The project proceeds through a sequence of well-designed forms provided with validations to ensure consistency, reliability and most importantly correctness of information fed into the database.
+Our project basically manages the ticket booking process of cinema, providing an interface to the user to book movie tickets in an easier way. At the front end we have used HTML and CSS and at the back end PHP and My SQL server. The project proceeds through a sequence of well-designed forms provided with validations to ensure consistency, reliability and most importantly correctness of information fed into the database.
 
 ## ERD Diagram
 **Note: There is a separate table for admin and user because the instructions for the project were to implement a separate user and admin portal by the instructor. Hence, there is no user role based login implemented.**
@@ -48,5 +48,5 @@ _**Bookings**_
 
 ---------------------------------------------------------------------------------------------------------------
 
- ## > Thankyou for showing interest in my Project !!!
+ ## > Thankyou for showing interest in my Project :) <
 
